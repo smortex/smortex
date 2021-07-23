@@ -13,7 +13,7 @@ I contribute to Free / Libre / Open Source software on a daily basis, with contr
 
 ### Top languages
 
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=smortex)
+![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=smortex&skills=C,C%2b%2b,EPP,ERB,Puppet,Ruby,Shell,Makefile&show-other-skills=true)
 
 ### Get in touch
 
