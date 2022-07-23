@@ -19,3 +19,16 @@ I contribute to Free / Libre / Open Source software on a daily basis, with contr
 
 * :mailbox: E-mail / snail-mail address and phone numbers are listed on the [contact page](https://romain.blogreen.org/contact.html) of [my website](https://romain.blogreen.org/);
 * :speech_balloon: I toot on the fediverse as [@smortex@mamot.fr](https://mamot.fr/@smortex).
+
+### Work with me
+
+I am not actively looking for a job at the moment.  Yet, I am open to offers and willing to meet people for future opportunities.
+
+Beside my main activity, I make sure to have spare time to work on side projects as a contractor.  My base rate is 30000 XPF/hour and decrease with volume.
+Conditions apply (non-exhaustive list):
+
+* You want to see specific terms in the contract?  You provide a template ahead of time;
+* You want me to work on site?  You handle travel and accomodation;
+  * …for an extended period of time?  Also plan some leisure;
+* You only have an open-space?  Add 2500 XPF/hour;
+* You have some kind of dress-code?  You provide the appropriate disguise in advance.
