@@ -1,6 +1,6 @@
 # :wave: ‘Ia ora na :call_me_hand: !
 
-Hi! My name is Romain Tartière, I am a _Free Software mercenary_.  I live in French Polynesia where I enjoy coconuts; I love things from the 70's (like [UNIX](https://en.wikipedia.org/wiki/Unix) or the [Japanese hard-rock music](https://en.wikipedia.org/wiki/Japanese_rock#1970s_to_1980s:_Diversification)) and I am found of mixology :tropical_drink:.
+Hi! My name is Romain Tartière, I am a _Free Software mercenary_.  I live in French Polynesia where I enjoy coconuts; I love things from the 70's (like [UNIX](https://en.wikipedia.org/wiki/Unix) or the [Japanese hard-rock music](https://en.wikipedia.org/wiki/Japanese_rock#1970s_to_1980s:_Diversification)) and I am fond of mixology :tropical_drink:.
 
 I contribute to Free / Libre / Open Source software on a daily basis, with contributions to dozens and dozens of pieces of software.  My activity bellow shows a part of it, but keep in mind that GitHub is not the only place where you can contribute to Free Software.
 
