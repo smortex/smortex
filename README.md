@@ -11,10 +11,6 @@ I contribute to Free / Libre / Open Source software on a daily basis, with contr
 * [Vox Pupuli](https://voxpupuli.org/), as a contributor for the dozens Puppet modules this organization maintain;
 * [Choria](https://choria.io/), as a contributor for the continuation of what used to be Marionette Collective before it was dropped-off the Puppet Platform.
 
-### Top languages
-
-![](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=smortex&skills=C,C%2b%2b,EPP,ERB,Puppet,Ruby,Shell,Makefile&show-other-skills=true)
-
 ### Get in touch
 
 * :mailbox: E-mail / snail-mail address and phone numbers are listed on the [contact page](https://romain.blogreen.org/contact.html) of [my website](https://romain.blogreen.org/);
