@@ -7,7 +7,7 @@ I contribute to Free / Libre / Open Source software on a daily basis, with contr
 ### Projects I am actively working on
 
 * [FreeBSD](https://freebsd.org), as a ports maintainer for [my own ports](https://portscout.freebsd.org/romain@freebsd.org.html) and the [puppet@ ones](https://portscout.freebsd.org/puppet@freebsd.org.html);
-* [Puppet](https://puppet.com/), while I am not working _for_ Puppet, I have been using it for years and regularly contribute to the various components composing the Puppet Platform;
+* [OpenVox](https://voxpupuli.org/openvox/), now that [Perforce has decided to kill Open Source Puppet](https://www.puppet.com/blog/open-source-puppet-updates-2025) (which I have been using for years and regularly contribute to), the OpenVox Project was build to continue providing a Free, Libre, Open Source version of Puppet to the community.  I naturally shifted from supporting the Puppet ecosystem to the OpenVox one in various areas;
 * [Vox Pupuli](https://voxpupuli.org/), as a contributor for the dozens Puppet modules this organization maintain;
 * [Choria](https://choria.io/), as a contributor for the continuation of what used to be Marionette Collective before it was dropped-off the Puppet Platform.
 
